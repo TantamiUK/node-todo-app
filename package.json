@@ -1,0 +1,24 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Todo application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TantamiUK/node-todo-app.git"
+  },
+  "author": "James Walsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TantamiUK/node-todo-app/issues"
+  },
+  "homepage": "https://github.com/TantamiUK/node-todo-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
